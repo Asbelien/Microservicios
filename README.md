@@ -303,7 +303,6 @@ cd citas-service
 ---
 
 ## 👤 Autor
-Elienai Asbel Ramos Escarrache
 
 **Elienai Asbel Ramos Escarrache**  
 TECSUP - Desarrollo de Aplicaciones Web  
