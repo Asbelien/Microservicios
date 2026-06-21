@@ -7,6 +7,12 @@
         <option value="$PROJECT_DIR$/citas-service/pom.xml" />
         <option value="$PROJECT_DIR$/medico-service/pom.xml" />
         <option value="$PROJECT_DIR$/paciente-service/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/categoria-service/categoria-service/pom.xml" />
+        <option value="$PROJECT_DIR$/categoria-service/pom.xml" />
+        <option value="$PROJECT_DIR$/producto-service/pom.xml" />
+        <option value="$PROJECT_DIR$/cliente-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pedido-service/pom.xml" />
       </list>
     </option>
   </component>
